@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>leetcode on haogroot blog</title>
-    <link>http://www.example.com/categories/leetcode/</link>
+    <link>https://haogroot.github.io/categories/leetcode/</link>
     <description>Recent content in leetcode on haogroot blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/categories/leetcode/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://haogroot.github.io/categories/leetcode/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Union-Find / Disjoint-Set - 陪你刷題</title>
-      <link>http://www.example.com/posts/union_find-leetcode/</link>
+      <link>https://haogroot.github.io/posts/union_find-leetcode/</link>
       <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/posts/union_find-leetcode/</guid>
+      <guid>https://haogroot.github.io/posts/union_find-leetcode/</guid>
       <description>Union-Find data structure ，又稱為 Disjoint-set data structure，用於處理不相交集合 (disjoint set) 的合併 (Union) 與查詢 (Find) 問題，最常用在圖中有 connected component 的情境 。
 Disjoint setLink to heading先看 &amp;ldquo;set&amp;rdquo; 這個單字，set 在 computer science 領域指的是一組資料的集合，set 內部的資料是不重複的，資料之間的順序並不重要。
 而 disjoint set 表示數個 set 之間，擁有的元素都不相同，彼此互斥（disjoint）。例如 A = {1, 2, 3}, B = {4, 5} ，A 和 B 即為 disjoint set 。
