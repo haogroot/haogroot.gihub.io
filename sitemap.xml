@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://haogroot.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2021-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://haogroot.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2021-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://haogroot.github.io/categories/leetcode/</loc>
+    <loc>/categories/leetcode/</loc>
     <lastmod>2021-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://haogroot.github.io/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2021-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://haogroot.github.io/posts/union_find-leetcode/</loc>
+    <loc>/posts/union_find-leetcode/</loc>
     <lastmod>2021-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://haogroot.github.io/authors/</loc>
+    <loc>/authors/</loc>
   </url><url>
-    <loc>https://haogroot.github.io/series/</loc>
+    <loc>/series/</loc>
   </url><url>
-    <loc>https://haogroot.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
